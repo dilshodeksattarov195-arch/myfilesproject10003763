@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorctringify",
+        "uuid": 4598386,
+        "checksum": "cfgttg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
